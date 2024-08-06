@@ -1,2 +1,2 @@
 # pet-shop
-Projeto de estudo de html semântico
+Projeto de estudo, site utilizando html semântico, css e javascript.
